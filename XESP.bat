@@ -4,6 +4,10 @@ REM  ENG: XESP opens msedge (Video 4k), device manager, windows update, Windows 
 REM  XESP é uma ferramenta de audit para as maquinas Windows Surface Pro.
 REM  XESP abre as janelas: msedge(Video 4k), gestor de dispositivos, actualizaciones de windows, Camara de windows.
 
+REM ENG: Style of the console, most precisely the title. Edit as needed.
+REM Estilo da janela editar a necessidade.
+title WDMI - XE ferramenta de audit
+
 REM ENG: Xepath has the value of a temporal hidden folder.
 REM Xepath tem o valor de um ficheiro temporal escondido.
 set XEPATH=C:\Users\%USERNAME%\Desktop\$temp.txt
